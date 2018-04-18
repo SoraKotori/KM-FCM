@@ -1,0 +1,11 @@
+max_k=1;
+initial_fuzzy=0;
+membership=2;
+evaluate=0;
+end_var=0.05;
+index=16;
+vbar=0;
+picture=1;
+high=128;
+width=128;
+debug=0;

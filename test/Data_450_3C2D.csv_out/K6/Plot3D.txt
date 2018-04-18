@@ -1,0 +1,4 @@
+set terminal png enhanced size 640,480
+set output "K6_3D.png"
+set key outside center bottom horizontal
+splot "cluster0.3D","cluster1.3D","cluster2.3D","cluster3.3D","cluster4.3D","cluster5.3D"

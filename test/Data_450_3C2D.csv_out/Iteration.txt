@@ -1,0 +1,21 @@
+---------------------------------
+The number of k = 2
+Iteration = 6
+---------------------------------
+The number of k = 3
+Iteration = 16
+---------------------------------
+The number of k = 4
+Iteration = 28
+---------------------------------
+The number of k = 5
+Iteration = 19
+---------------------------------
+The number of k = 6
+Iteration = 19
+---------------------------------
+The number of k = 7
+Iteration = 30
+---------------------------------
+The number of k = 8
+Iteration = 24

@@ -1,0 +1,4 @@
+set terminal png enhanced size 640,480
+set output "K2_2D.png"
+set key outside center bottom horizontal
+plot  "Data0.2D" title "Cluster0" , "Data1.2D" title "Cluster1" 

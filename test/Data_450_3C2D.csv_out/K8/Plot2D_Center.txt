@@ -1,0 +1,4 @@
+set terminal png enhanced size 640,480
+set output "K8_Center_2D.png"
+set key outside center bottom horizontal
+plot  "Data0.2D" title "Cluster0" , "Data1.2D" title "Cluster1" , "Data2.2D" title "Cluster2" , "Data3.2D" title "Cluster3" , "Data4.2D" title "Cluster4" , "Data5.2D" title "Cluster5" , "Data6.2D" title "Cluster6" , "Data7.2D" title "Cluster7" , "Center.2D" title "Center" with points pointtype 7 pointsize 1

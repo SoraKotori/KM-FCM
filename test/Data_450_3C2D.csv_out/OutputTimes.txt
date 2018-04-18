@@ -1,0 +1,31 @@
+
+START:	Wed Feb 08 17:29:38 2017
+
+---------------------------------
+The number of k= 2
+Time : 13.593 sec 
+---------------------------------
+The number of k= 3
+Time : 6.853 sec 
+---------------------------------
+The number of k= 4
+Time : 1.382 sec 
+---------------------------------
+The number of k= 5
+Time : 0.91 sec 
+---------------------------------
+The number of k= 6
+Time : 3.213 sec 
+---------------------------------
+The number of k= 7
+Time : 1.305 sec 
+---------------------------------
+The number of k= 8
+Time : 1.057 sec 
+---------------------------------
+
+END:	Wed Feb 08 17:30:06 2017
+
+
+The All time of the code is: 28.748 sec
+

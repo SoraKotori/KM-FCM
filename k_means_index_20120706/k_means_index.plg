@@ -1,0 +1,54 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: k_means_index - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\Li\AppData\Local\Temp\RSP7496.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:yes /pdb:"Debug/k_means_index.pdb" /debug /machine:I386 /out:"Debug/k_means_index.exe" /pdbtype:sept 
+".\Debug\CHI.obj"
+".\Debug\CS_ck.obj"
+".\Debug\CSI.obj"
+".\Debug\DBI.obj"
+".\Debug\DSI.obj"
+".\Debug\DunnI.obj"
+".\Debug\FSI.obj"
+".\Debug\Kwon.obj"
+".\Debug\MPCI.obj"
+".\Debug\PBMF.obj"
+".\Debug\PBMI.obj"
+".\Debug\PCAESI.obj"
+".\Debug\PCI.obj"
+".\Debug\PEI.obj"
+".\Debug\SC.obj"
+".\Debug\SVI.obj"
+".\Debug\SymI.obj"
+".\Debug\WL.obj"
+".\Debug\XBI.obj"
+".\Debug\assgin.obj"
+".\Debug\center.obj"
+".\Debug\DataType.obj"
+".\Debug\distance.obj"
+".\Debug\index_lib.obj"
+".\Debug\input.obj"
+".\Debug\k_means.obj"
+".\Debug\kmeans_lib.obj"
+".\Debug\main.obj"
+".\Debug\output.obj"
+".\Debug\output_gnuplot.obj"
+".\Debug\var_max_min.obj"
+]
+Creating command line "link.exe @C:\Users\Li\AppData\Local\Temp\RSP7496.tmp"
+<h3>Output Window</h3>
+Linking...
+
+
+
+<h3>Results</h3>
+k_means_index.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

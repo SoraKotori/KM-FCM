@@ -1,0 +1,17 @@
+center_f=1;
+membership=2;
+iteration=10;
+index=2;
+vbar=0;
+picture=0;
+high=0;
+width=0;
+
+
+#########################
+center_f=初始中心點決定式：0以資料集的極值亂數產生，1以資料集隨機1點為中心
+iteration=迭代次數
+index=使用哪種index：0為normal，1為XBI，2為DBI
+picture=資料集是否為圖片：0非圖片，1為圖片
+high=圖片高度
+wide=圖片?度
